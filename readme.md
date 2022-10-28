@@ -63,7 +63,7 @@ Using geopy and geopandas python library, got the latitude and longtitude for ea
 
 
 ## 3. Use Tableau to visualize
-Now i have everything on AWS, next is to test the HTTP requests to do the prediction. Usually we use Postman to do the test.
+Now i have the data frame i need, next step is Tableau.
 <p align="center">
 <img src="Figure/Map.png">
 <br>
