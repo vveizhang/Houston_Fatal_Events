@@ -80,4 +80,4 @@ Now i have everything on AWS, next is to test the HTTP requests to do the predic
 - **Author**: Wei Zhang
 - **Email**: [zwmc@hotmail.com](zwmc@hotmail.com)
 - **Github**: [https://github.com/vveizhang](https://github.com/vveizhang)
-- **Linkedin**: [https://www.linkedin.com/in/wei-z-76253523/](https://www.linkedin.com/in/wei-z-76253523/)
+- **Linkedin**: [https://www.linkedin.com/in/wei-zhang-76253523/](https://www.linkedin.com/in/wei-zhang-76253523/)
